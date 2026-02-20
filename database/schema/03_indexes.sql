@@ -1,0 +1,1 @@
+-- CREATE INDEX statements for performance optimization

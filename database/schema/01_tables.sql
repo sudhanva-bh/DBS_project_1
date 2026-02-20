@@ -1,0 +1,1 @@
+-- DDL for all base tables

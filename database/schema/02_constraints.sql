@@ -1,0 +1,1 @@
+-- ALTER TABLE statements for foreign keys and checks
